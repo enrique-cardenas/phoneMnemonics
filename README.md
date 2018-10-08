@@ -6,4 +6,4 @@ Martin Odersky, the inventor of Scala likes to show off the power of Scala and f
 the “phone mnemonics” problem. Given a phone number, what word or word sequence spells it on a touch-tone pad? 
 For example, given the phone number 435 569 6753, one should come up with the sequence HELLO WORLD (and maybe others).
 
-This program uses no recursion
+This program does not use recursion
